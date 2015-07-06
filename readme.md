@@ -1,6 +1,6 @@
 # PacPac
 
-This is Pac-Man from a parallel universe.
+This is Pac-Man from a parallel universe. A Pac-Man for everyone! 
 
 ![PacPac Title](https://raw.github.com/tylerneylon/pacpac/master/screenshots/title.png)
 
@@ -9,11 +9,16 @@ This is Pac-Man from a parallel universe.
 There are 3 mazes to play through. This is thrice as
 many as the original pac-man :)
 
+Presenting the old game but a new and fun game for us video-gamer lovers! 
+
+The arcade game can now be installed and ready to play as long as you want – or where ever you are! The arcade game I played was distributed for free, while my husband is at work I’m here playing and enjoying the lazy Sunday *wink* you can also look some of the features [here](http://healthydogbeds.com/).
+
+
 You need the [löve](http://love2d.org) game engine to play. The current code is written for löve
 v0.9.2.
 
 The original code was written in under 24 hours as a challenge.
-My wife didn't believe I could make a pac-man-like game in a day.
+My husband didn't believe I could make a pac-man-like game in a day.
 Here's a fun [first 24-hour evolution of the game in screenshots](http://tylerneylon.com/pacpac/).
 
 ## How to install and run
